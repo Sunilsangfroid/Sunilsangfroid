@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Ch. Sunil Patra</h1>
 <br />
 
-- I am a Second year Computer Science Undergrad at IIT Mandi.
+- I am a Third year Computer Science Undergrad at IIT Mandi.
 - Interested in Android ,Web Development and Machine Learning.
 - You can contact me via Email: <a href="sunilsangfroid@gmail.com">sunilsangfroid@gmail.com</a>
 
