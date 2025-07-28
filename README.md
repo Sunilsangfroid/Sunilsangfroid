@@ -1,13 +1,13 @@
 <!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hey!+I'm+Ch.+Sunil+Patra+👋;3rd+year+CS+undergrad+at+IIT+Mandi;Android+%7C+Web+%7C+ML+Enthusiast;Let's+build+something+awesome+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Hey!+I'm+Ch.+Sunil+Patra+👋;4th+year+CS+undergrad+at+IIT+Mandi;Android+%7C+Web+%7C+ML+Enthusiast;Let's+build+something+awesome+together!" alt="Typing SVG" />
 </p>
 
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ch. Sunil Patra</h1>
 
 <p align="center">
-  <i>Third-year Computer Science Undergrad at <b>IIT Mandi</b></i>  
+  <i>Fourth-year Computer Science Undergrad at <b>IIT Mandi</b></i>  
 </p>
 
 <p align="center">
